@@ -32,6 +32,7 @@ def format_name(f_name, l_name):
 
 print(format_name("sam", "LORiMer"))
 
+#example of function's with output's we've already been using
 output = len("Angela")
 print(output)
 
